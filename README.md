@@ -1,5 +1,10 @@
 # Java Assignment-1
+~~~
+Name   : H.Syed Abdul Wasih
+Reg No : 212221240057
+~~~
 ## 1. Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
+
 ### Program:
 ~~~
 import java.util.*;
@@ -23,10 +28,12 @@ public class Main
     }
 }
 ~~~
-### Output:
 
+### Output:
+![1](https://user-images.githubusercontent.com/91781810/224492213-9307ff1d-23b4-419e-9ac4-06211aaa6158.png)
 
 ## 2. Write a Java program to compare two numbers.
+
 ### Program:
 ~~~
 import java.util.*;
@@ -50,11 +57,13 @@ public class p2 {
     }
 }
 ~~~
+
 ### Output:
 
-
+![2](https://user-images.githubusercontent.com/91781810/224492238-41d448d8-ddb3-4fb2-8a3b-e7477b4cb968.png)
 
 ## 3. Write a Java program to convert a string to an integer.
+
 ### Program:
 ~~~
 import java.util.*;
@@ -68,11 +77,13 @@ public class p3{
     }
 }
 ~~~
+
 ### Output:
 
-
+![3](https://user-images.githubusercontent.com/91781810/224492255-fd0140b3-3829-48ca-a240-e850bf0b951a.png)
 
 ## 4. Java Program to find area of rhombus.
+
 ### Program:
 ~~~
 import java.util.*;
@@ -87,11 +98,13 @@ public class p4{
     }
 }
 ~~~
+
 ### Output:
 
-
+![4](https://user-images.githubusercontent.com/91781810/224492308-f1f51a3b-0127-4027-8382-cb90ff82c976.png)
 
 ## 5. Write a Java program to find the number of days in a month.
+
 ### Program:
 ~~~
 import java.util.Scanner;
@@ -145,11 +158,13 @@ public class p5 {
     }
 }
 ~~~
+
 ### Output:
 
-
+![5](https://user-images.githubusercontent.com/91781810/224492334-1db6ec6b-cafb-44c1-9bef-05042ea5fbc1.png)
 
 ## 6. Write a Java program to print the even numbers from 1 to 20.
+
 ### Program:
 ~~~
 import java.util.*;
@@ -163,11 +178,13 @@ public class p6 {
     }
 }
 ~~~
+
 ### Output:
 
-
+![6](https://user-images.githubusercontent.com/91781810/224492348-712c0a84-cd91-4288-9ed3-e6241f0ee79c.png)
 
 ## 7. Write a Java program to create a simple calculator.
+
 ### Program:
 ~~~
 import java.util.Scanner;
@@ -214,10 +231,13 @@ public class p7 {
     }
 }
 ~~~
+
 ### Output:
 
+![7](https://user-images.githubusercontent.com/91781810/224492366-19aa2b9e-1a01-451a-93ea-5b6836ea6e91.png)
 
 ## 8. Write a Java program to print multiplication table of given number.
+
 ### Program:
 ~~~
 import java.util.*;
@@ -234,7 +254,7 @@ public class p8 {
     }
 }
 ~~~
+
 ### Output:
 
-
-
+![8](https://user-images.githubusercontent.com/91781810/224492378-9319540f-15d0-440c-b6e2-71ece0e63d4d.png)
